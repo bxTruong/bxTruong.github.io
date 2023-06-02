@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bxTruong.nothing",
+      "sha256_cert_fingerprints":
+      ["8C:C4:46:3F:22:61:D6:E1:14:14:13:FC:1D:01:65:40:6B:E7:94:97:FC:82:BB:36:FC:84:65:81:73:45:AE:F6"]
+    }
+  }]
